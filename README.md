@@ -11,10 +11,10 @@ When it comes to teamwork, I strive to be the best teammate possible. I highly v
 
 I am open to any opportunity to collaborate on different types of projects, to keep learning and growing in the world of technology, and to contribute with my skills.
 
-### skills
+### Skills
 javascript html5 css react redux postgresql nodejs sequelize express
 
-### soft skills
+### Soft skills
 ✔️ Agile learning
 ✔️ Creativity
 ✔️ Empathy
