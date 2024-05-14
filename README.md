@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello! My name is Ludmila Almiron.
+### Hello! 👋👋👋 My name is Ludmila Almiron.
+![image](https://github.com/ludmila-almiron/Ludmila-Almiron/assets/132579841/63477df2-99f7-4569-8f21-254186b98677)
 
 I've been studying and practicing Full Stack Web Development for more than a year. During this time, I participated in several courses and explored in a self-taught way, which has given me a solid foundation in logic, analytical thinking, and design patterns. However, I am aware of the current demands of the IT market and I am really committed to continuous learning and training.
 
