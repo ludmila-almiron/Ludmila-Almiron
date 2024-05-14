@@ -1,5 +1,5 @@
+
 ### Hello! 👋👋👋 My name is Ludmila Almiron.
-![image](https://github.com/ludmila-almiron/Ludmila-Almiron/assets/132579841/63477df2-99f7-4569-8f21-254186b98677)
 
 I've been studying and practicing Full Stack Web Development for more than a year. During this time, I participated in several courses and explored in a self-taught way, which has given me a solid foundation in logic, analytical thinking, and design patterns. However, I am aware of the current demands of the IT market and I am really committed to continuous learning and training.
 
@@ -10,6 +10,25 @@ In addition to my creativity, what sets me apart is my dedication and determinat
 When it comes to teamwork, I strive to be the best teammate possible. I highly value communication, empathy, and mutual support, and I believe these are the fundamental pillars to achieve common goals.
 
 I am open to any opportunity to collaborate on different types of projects, to keep learning and growing in the world of technology, and to contribute with my skills.
+
+### skills
+javascript html5 css react redux postgresql nodejs sequelize express
+
+### soft skills
+✔️ Agile learning
+✔️ Creativity
+✔️ Empathy
+✔️ Communicative
+✔️ Dedication
+✔️ Perseverance
+
+### Languages
+⚡ Spanish - Native
+⚡ English - C1 Advanced
+
+### How to contact me:
+📫 ludmialmi@gmail.com
+📫 https://www.linkedin.com/in/ludmila-almiron-6bb598183/
 
 <!--
 **ludmila-almiron/Ludmila-Almiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
